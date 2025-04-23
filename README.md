@@ -22,8 +22,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-## Developed By: PRADEEP V
-## Register No: 212223240119
+## Developed By: S LALIT CHANDRAN
+## Register No: 212223240077
 
 
 ### 1. Smoothing Filters
@@ -48,8 +48,7 @@ plt.title("Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-## Output
-![image](https://github.com/user-attachments/assets/5c75166e-1bbe-47ba-beac-f5d0facd0e5e)
+## Output![image](https://github.com/user-attachments/assets/e090cb69-2287-4e7f-b799-3e18e6344551)
 
 
 #### ii) Using Weighted Averaging Filter
@@ -62,7 +61,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/82ce5097-b693-451e-ab07-be666bb5cd6c)
+![image](https://github.com/user-attachments/assets/56e057a7-daaa-4082-b222-048cd7a6753d)
+
 
 
 #### iii) Using Gaussian Filter
@@ -74,7 +74,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/6acc667a-ff2e-436b-bffb-9d87fa16199c)
+![image](https://github.com/user-attachments/assets/de758449-9ec0-429a-ba7d-340a210fd57e)
+
 
 
 #### iv)Using Median Filter
@@ -85,7 +86,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/74adf0ac-206a-473c-ac08-2a4e9c2f814f)
+![image](https://github.com/user-attachments/assets/5a616647-04e3-46fc-a898-41c9ccda8fa7)
+
 
 
 
@@ -101,7 +103,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/6d499739-3d2c-4f7d-a1dd-70d812ecd851)
+![image](https://github.com/user-attachments/assets/76c3f602-0a20-46f4-a933-0d439723d7ae)
+
 
 
 #### ii) Using Laplacian Operator
@@ -114,7 +117,8 @@ plt.show()
 ```
 ## Output
 
-![image](https://github.com/user-attachments/assets/6a56cd41-574b-42c7-a986-de96301cbea4)
+![image](https://github.com/user-attachments/assets/7b654203-6523-4922-a7a6-64c3c4fcca74)
+
 
 
 
